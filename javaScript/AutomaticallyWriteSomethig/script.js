@@ -1,4 +1,4 @@
-let text = "Hello i'am Farid Hashimzada👨💻"
+let text = "Hello, I am Farid Hashimzada👨💻"
 
 let index = 0
 
